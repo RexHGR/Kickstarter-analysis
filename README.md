@@ -1,2 +1,2 @@
-# TEC-REP
-Repo for delivering challenge assignment
+# kickstarter-analysis
+Delivery of challenge project based on Analysis of Kickstarter Campaigns.
